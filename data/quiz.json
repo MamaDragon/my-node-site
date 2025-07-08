@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which language is used for styling web pages?",
+    "choices": [
+      "HTML",
+      "JQuery",
+      "CSS/CSS3",
+      "HTMX"
+    ],
+    "answer": "CSS/CSS3"
+  },
+  {
+    "question": "Which can be used for object-oriented code?",
+    "choices": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "None"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is implemented in mobile-first design?",
+    "choices": [
+      "HTML5",
+      "CSS3",
+      "Media Queries",
+      "All"
+    ],
+    "answer": "All"
+  },
+  {
+    "question": "MVC is a _____.",
+    "choices": [
+      "Language",
+      "Library",
+      "Framework",
+      "None"
+    ],
+    "answer": "Framework"
+  },
+  {
+    "question": "Test",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  }
+]
